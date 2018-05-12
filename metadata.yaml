@@ -1,0 +1,42 @@
+_repo: Careers-of-Danger-and-Daring_33146
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Hambidge, Jay
+    birthdate: 1867
+    deathdate: 1924
+    gutenberg_agent_id: '24849'
+    url: http://www.gutenberg.org/2009/agents/24849
+  - agent_name: Varian, George
+    alias: Varian, George Edmund
+    birthdate: 1865
+    deathdate: 1923
+    gutenberg_agent_id: '31657'
+    url: http://www.gutenberg.org/2009/agents/31657
+covers:
+- cover_type: archival
+  image_path: 33146-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Moffett, Cleveland
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '2850'
+    url: http://www.gutenberg.org/2009/agents/2850
+description: ''
+gutenberg_issued: '2010-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hazardous occupations'
+- !lcc 'T'
+tableOfContents: The steeple-climber -- The deep-sea diver -- The balloonist -- The
+  pilot -- The bridge-builder -- The fireman -- The aërial acrobat -- The wild-beast
+  tamer -- The dynamite worker -- The locomotive engineer.
+title: Careers of Danger and Daring
+url: http://www.gutenberg.org/ebooks/33146
